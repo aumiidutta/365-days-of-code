@@ -1,4 +1,4 @@
-#question link: 
+#question link: https://www.interviewbit.com/problems/prime-numbers/
 
 
 import math
