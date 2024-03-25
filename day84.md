@@ -1,4 +1,4 @@
-question link: https://www.interviewbit.com/problems/loopcmpl/<br><br>
+question link: https://www.interviewbit.com/problems/color-of-the-last-ball/<br><br>
 
 
 You have 20 blue balls and 14 red balls in a bag.<br>
